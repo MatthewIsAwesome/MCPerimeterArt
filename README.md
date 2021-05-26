@@ -11,4 +11,6 @@ Into Minecraft
 
 
 ## How To Use
-...
+Use `imageAverage.py` to generate a new dictionary if you're using more than just the gravity blocks. Modify the `block_textures` folder to include your textures and if they use a different texture width, edit the `textureSize` variable in the script.
+
+Edit the `image_to_replicate` variable in `pixelArtConcrete.py` to the name of the image you placed in the `images` folder. Run the script and it will generate the necessary files in that folder
