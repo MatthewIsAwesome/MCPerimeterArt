@@ -3,11 +3,11 @@ A set of python tools for creating pixel art perimeter walls in Minecraft.
 
 ## Example
 
-<img src="https://user-images.githubusercontent.com/30124354/119706448-e0ea1e00-be51-11eb-8d02-6b1a29493329.png" width="100">
+<img src="https://user-images.githubusercontent.com/30124354/119706448-e0ea1e00-be51-11eb-8d02-6b1a29493329.png" width="150">
 
 Into Minecraft
 
-<img src="https://user-images.githubusercontent.com/30124354/119706460-e47da500-be51-11eb-8f4c-f296f2af340f.png" "width="100">
+<img src="https://user-images.githubusercontent.com/30124354/119706460-e47da500-be51-11eb-8f4c-f296f2af340f.png" width="150">
 
 
 ## How To Use
