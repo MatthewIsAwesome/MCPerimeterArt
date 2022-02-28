@@ -3,21 +3,11 @@ A set of python tools for creating pixel art perimeter walls in Minecraft.
 
 ## Example
 
-<style>
-img {
-    image-rendering: -moz-crisp-edges;         /* Firefox */
-    image-rendering:   -o-crisp-edges;         /* Opera */
-    image-rendering: -webkit-optimize-contrast;/* Webkit (non-standard naming) */
-    image-rendering: crisp-edges;
-    -ms-interpolation-mode: nearest-neighbor;  /* IE (non-standard property) */ 
-}
-</style>
-
-<img src="https://user-images.githubusercontent.com/30124354/119706448-e0ea1e00-be51-11eb-8d02-6b1a29493329.png" width="150">
+![nomc](https://user-images.githubusercontent.com/30124354/155988121-dfc18899-7071-45ab-a25e-5d954ef3872d.png)
 
 Into Minecraft
 
-<img src="https://user-images.githubusercontent.com/30124354/119706460-e47da500-be51-11eb-8f4c-f296f2af340f.png" width="150">
+![yesmc](https://user-images.githubusercontent.com/30124354/155988113-46ec051e-5016-4c1a-b596-cb613698016c.png)
 
 ## How To Use
 Use `imageAverage.py` to generate a new dictionary if you're using more than just the gravity blocks. Modify the `block_textures` folder to include your textures and if they use a different texture width, edit the `textureSize` variable in the script.
